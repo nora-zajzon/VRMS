@@ -109,5 +109,4 @@ export const additionalInputsForEdit = [
   //   placeholder: 'Created Date',
   //   disabled: true
   // }
-  //adding new line
 ]
